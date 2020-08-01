@@ -32,8 +32,3 @@ Being part of that, my responsibilities include the development and support of n
 ## My public dev work
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<style>
-.icons { display: flex; }
-.icons > a:not(:last-child) { margin-right: 0.5rem; }
-</style>
