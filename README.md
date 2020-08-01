@@ -26,6 +26,9 @@ Being part of that, my responsibilities include the development and support of n
 <a href="https://instagram.com/ddamilos">
 <img alt="ddamilos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://medium.com/@dimitrisdamilos">
+<img alt="dimitrisdamilos | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
 ## Small projects
 
