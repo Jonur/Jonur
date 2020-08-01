@@ -23,7 +23,9 @@ Being part of that, my responsibilities include the development and support of n
 [<img align="left" alt="dimitrisdamilos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ddamilos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<img align="left" alt="Jonur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+## My public dev work
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://linkedin.com/in/dimitrisdamilos
 [instagram]: https://instagram.com/ddamilos
