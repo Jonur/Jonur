@@ -20,14 +20,20 @@ Being part of that, my responsibilities include the development and support of n
 
 ## Connect with me
 
-<div style="display:flex;">
-[<img alt="dimitrisdamilos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="ddamilos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<div class="icons">
+<a href="https://linkedin.com/in/dimitrisdamilos">
+<img alt="dimitrisdamilos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://instagram.com/ddamilos">
+<img alt="ddamilos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 </div>
 
 ## My public dev work
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[linkedin]: https://linkedin.com/in/dimitrisdamilos
-[instagram]: https://instagram.com/ddamilos
+<style>
+.icons { display: flex; }
+.icons > a:not(:last-child) { margin-right: 0.5rem; }
+</style>
