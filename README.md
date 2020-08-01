@@ -20,14 +20,12 @@ Being part of that, my responsibilities include the development and support of n
 
 ## Connect with me
 
-<div class="icons">
 <a href="https://linkedin.com/in/dimitrisdamilos">
 <img alt="dimitrisdamilos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://instagram.com/ddamilos">
 <img alt="ddamilos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-</div>
 
 ## My public dev work
 
