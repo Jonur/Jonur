@@ -26,6 +26,9 @@ Being part of that, my responsibilities include the development and support of n
 <a href="https://linkedin.com/in/dimitrisdamilos">
 <img alt="dimitrisdamilos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://stackoverflow.com/users/979010/dimitris-damilos?tab=profiles">
+<img alt="dimitris-damilos | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
 <a href="https://instagram.com/ddamilos">
 <img alt="ddamilos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
