@@ -16,6 +16,8 @@ The Editor is a data-driven React (JS/JSX, Redux) application, which uses AWS se
 
 Being part of that, my responsibilities include the development and support of new Editor features, the improvement of the existing features, as well as managing the data used and slightly be involved with the web services.
 
+If you want to find out more details about each role I've worked on, like tech stacks, project details, responsibilities, etc. please do visit my [LinkedIn profile](https://linkedin.com/in/dimitrisdamilos).
+
 </details>
 
 ## Connect with me
