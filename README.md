@@ -20,6 +20,9 @@ Being part of that, my responsibilities include the development and support of n
 
 ## Connect with me
 
+<a href="https://jonur.io">
+<img alt="jonur.io | My personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
 <a href="https://linkedin.com/in/dimitrisdamilos">
 <img alt="dimitrisdamilos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
