@@ -27,6 +27,20 @@ Being part of that, my responsibilities include the development and support of n
 <img alt="ddamilos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+## Small projects
+
+### [EU COVID-19 Country Statistics](https://covid19eu.jonur.io/)
+
+This is an EU and mobile-UX focused monitoring tool for the coronavirus pandemic. The stats update daily and the app offers a good amount of structured data presentations for each country, the EU as a whole, as well as a comparison between the EU and the rest of the world. [Read more...](https://medium.com/@dimitrisdamilos/eu-covid-19-country-statistics-456efef315e1)
+
+[Visit](https://covid19eu.jonur.io/) - [Code](https://github.com/Jonur/covid19-eu-report)
+
+### [Costie](https://costie.jonur.io/)
+
+Costie is a meeting cost calculator. It takes the - before-tax preferably - salary amounts of the participants and runs a timer with the meeting's cost per second. The salary fields are safe in password fields and are destroyed the moment the user navigates to the timer, with the application keeping only the sum of all salaries per second. [Read more...](https://github.com/Jonur/costie#flow)
+
+[Visit](https://costie.jonur.io/) - [Code](https://github.com/Jonur/costie)
+
 ## My public dev work
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
