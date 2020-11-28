@@ -38,13 +38,19 @@ If you want to find out more details about each role I've worked on, like tech s
 <img alt="dimitrisdamilos | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-## Projects
+## Little side projects
 
 ### [EU COVID-19 Country Statistics](https://covid19eu.jonur.io/)
 
 This is an EU and mobile-UX focused monitoring tool for the coronavirus pandemic. The stats update daily and the app offers a good amount of structured data presentations for each country, the EU as a whole, as well as a comparison between the EU and the rest of the world. [Read more...](https://medium.com/@dimitrisdamilos/eu-covid-19-country-statistics-456efef315e1)
 
 [Visit](https://covid19eu.jonur.io/) - [Code](https://github.com/Jonur/covid19-eu-report)
+
+### [Art of War legions formation sharing tool](https://aowformationshare.jonur.io/)
+
+This small app allows Art of War: Legions players to share their formations and get formation suggestions without having to edit screenshots and it helps reference the formation squares.
+
+[Visit](https://aowformationshare.jonur.io/) - [Code](https://github.com/Jonur/aow-formation-share)
 
 ### [Costie](https://costie.jonur.io/)
 
