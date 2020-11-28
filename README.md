@@ -10,7 +10,7 @@ In 2012, two friends and I decided to create our project, cmagnet. We delivered 
 
 It was time for Whitbread to be my house next. In the role of Developer, I worked on the front-end of an AEM with AngularJS stack in one of the Premier Inn website's Scrum teams. Then, as a Senior Developer in the same company and Product, I co-led a React/Redux migration on top of the rest.
 
-At the moment, I am working for the Photobox's Editor team as a Senior Javascript developer on React and Node stacks.
+At the moment, I am working for the Photobox's Editor team as a Senior Javascript engineer, working mainly wtih React and Node.
 
 The Editor is a data-driven React (JS/JSX, Redux) application, which uses AWS services, mainly Lambdas and S3s, in order to provide a book creation interface with various toolboxes, store and edit the user's creation, as well as prepare the creation for the physical printing process. Continuous Integration pipelines and Continuous Deployment practices are used to ensure a very efficient workflow.
 
