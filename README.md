@@ -50,7 +50,7 @@ This is an EU and mobile-UX focused monitoring tool for the coronavirus pandemic
 
 This small app allows Art of War: Legions players to share their formations and get formation suggestions without having to edit screenshots and it helps reference the formation squares.
 
-[Visit](https://aowformationshare.jonur.io/) - Private Repository
+[Visit](https://aowformationshare.jonur.io/) - [Code](https://github.com/Jonur/aow-formation-share)
 
 ### [Costie](https://costie.jonur.io/)
 
