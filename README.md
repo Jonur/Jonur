@@ -10,7 +10,7 @@ I am Dimitris, a politically incorrect foodie and nerdy developer, who loves hea
 
 <p>Tractable is my house now and being part of the Inspection team, we're building cool web apps, which utilise AI services to produce instant condition reports remotely for vehicle remarketing, purchasing, and fleet.</p>
 
-<p>If you want to find out more details about each role I've worked on, like tech stacks, project details, responsibilities, etc. please do visit my [LinkedIn profile](https://linkedin.com/in/dimitrisdamilos).</p>
+<p>If you want to find out more details about each role I've worked on, like tech stacks, project details, responsibilities, etc. please do visit my <a href="https://linkedin.com/in/dimitrisdamilos">LinkedIn profile</a>.</p>
 
 </details>
 
