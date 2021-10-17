@@ -4,13 +4,13 @@ I am Dimitris, a politically incorrect foodie and nerdy developer, who loves hea
 
 <details>
 <summary>My professional story</summary>
-After completing my studies of IT & CS at the University of West Attica, my career began with small scale IT roles. I served my mandatory military service at the Hellenic Army as a radar operator and finally, self-employed, I worked on small-scale web projects. In 2012, I co-founded cmagnet, where we delivered design solutions, websites and e-shops to small businesses.
+<p>After completing my studies of IT & CS at the University of West Attica, my career began with small scale IT roles. I served my mandatory military service at the Hellenic Army as a radar operator and finally, self-employed, I worked on small-scale web projects. In 2012, I co-founded cmagnet, where we delivered design solutions, websites and e-shops to small businesses.</p>
 
-Moving to the UK in 2015, I landed at Ladbrokes. Working on WAMP stack in a Scrum team responsible for the development and support of the online betting platforms, I was also taking care of the integrations and support. Next in line was Whitbread, where I worked on the front-end of an AEM with AngularJS stack in one of the Premier Inn website's Scrum teams and co-led a React/Redux migration on top of the rest. A couple of years later in Photobox, I was responsible for overlooking the Front End side of a product support migration from legacy studios to the new creation studio, coaching and mentoring associate engineers, design UI implementation solutions and overlook their implementation, as well as make the necessary changes to improve the React codebases standards and and ensure they meet the most recent established good practices and trends.
+<p>Moving to the UK in 2015, I landed at Ladbrokes. Working on WAMP stack in a Scrum team responsible for the development and support of the online betting platforms, I was also taking care of the integrations and support. Next in line was Whitbread, where I worked on the front-end of an AEM with AngularJS stack in one of the Premier Inn website's Scrum teams and co-led a React/Redux migration on top of the rest. A couple of years later in Photobox, I was responsible for overlooking the Front End side of a product support migration from legacy studios to the new creation studio, coaching and mentoring associate engineers, design UI implementation solutions and overlook their implementation, as well as make the necessary changes to improve the React codebases standards and and ensure they meet the most recent established good practices and trends.</p>
 
-Tractable is my house now and being part of the Inspection team, we're building cool web apps, which utilise AI services to produce instant condition reports remotely for vehicle remarketing, purchasing, and fleet.
+<p>Tractable is my house now and being part of the Inspection team, we're building cool web apps, which utilise AI services to produce instant condition reports remotely for vehicle remarketing, purchasing, and fleet.</p>
 
-If you want to find out more details about each role I've worked on, like tech stacks, project details, responsibilities, etc. please do visit my [LinkedIn profile](https://linkedin.com/in/dimitrisdamilos).
+<p>If you want to find out more details about each role I've worked on, like tech stacks, project details, responsibilities, etc. please do visit my [LinkedIn profile](https://linkedin.com/in/dimitrisdamilos).</p>
 
 </details>
 
