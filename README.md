@@ -29,7 +29,7 @@ If you want to find out more details about each role I've worked on, like tech s
 <img alt="ddamilos | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
 </a>
 <a href="https://medium.com/@dimitrisdamilos">
-<img alt="dimitrisdamilos | Medium" width="22px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" />
+<img alt="dimitrisdamilos | Medium" width="22px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" />
 </a>
 
 ## Little side projects
