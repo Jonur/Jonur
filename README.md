@@ -34,12 +34,6 @@ I am Dimitris, a politically incorrect foodie and nerdy developer, who loves hea
 
 ## Little side projects
 
-### [EU COVID-19 Country Statistics](https://covid19eu.jonur.io/)
-
-This is an EU and mobile-UX focused monitoring tool for the coronavirus pandemic. The stats update daily and the app offers a good amount of structured data presentations for each country, the EU as a whole, as well as a comparison between the EU and the rest of the world. [Read more...](https://medium.com/@dimitrisdamilos/eu-covid-19-country-statistics-456efef315e1)
-
-[Visit](https://covid19eu.jonur.io/) - [Code](https://github.com/Jonur/covid19-eu-report)
-
 ### [Art of War legions formation sharing tool](https://aowformationshare.jonur.io/)
 
 This small app allows Art of War: Legions players to share their formations and get formation suggestions without having to edit screenshots and it helps reference the formation squares.
@@ -51,3 +45,9 @@ This small app allows Art of War: Legions players to share their formations and 
 Costie is a meeting cost calculator. It takes the - before-tax preferably - salary amounts of the participants and runs a timer with the meeting's cost per second. The salary fields are safe in password fields and are destroyed the moment the user navigates to the timer, with the application keeping only the sum of all salaries per second. [Read more...](https://github.com/Jonur/costie#flow)
 
 [Visit](https://costie.jonur.io/) - [Code](https://github.com/Jonur/costie)
+
+### EU COVID-19 Country Statistics
+
+This is an EU and mobile-UX focused monitoring tool for the coronavirus pandemic. The stats update daily and the app offers a good amount of structured data presentations for each country, the EU as a whole, as well as a comparison between the EU and the rest of the world. [Read more...](https://medium.com/@dimitrisdamilos/eu-covid-19-country-statistics-456efef315e1)
+
+Visit - [Code](https://github.com/Jonur/covid19-eu-report)
