@@ -25,9 +25,6 @@ I am Dimitris, a politically incorrect foodie and nerdy developer, who loves hea
 <a href="https://stackoverflow.com/users/979010/dimitris-damilos?tab=profiles">
 <img alt="dimitris-damilos | StackOverflow" width="22px" src="https://img.icons8.com/fluency/48/000000/stackoverflow.png" />
 </a>
-<a href="https://instagram.com/ddamilos">
-<img alt="ddamilos | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
-</a>
 <a href="https://medium.com/@dimitrisdamilos">
 <img alt="dimitrisdamilos | Medium" width="22px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" />
 </a>
