@@ -1,6 +1,6 @@
 ## About me
 
-I am Dimitris, a politically incorrect foodie and nerdy developer, who loves heavy metal, history and whisky. People also call me Jonur, it's a long story.
+I am Dimitris, a foodie, nerdy, history buff, whisky connoisseur, and metalhead. My sense of humour is weird. People also call me Jonur, it's a long story.
 
 <details>
 <summary>My professional story</summary>
@@ -8,26 +8,15 @@ I am Dimitris, a politically incorrect foodie and nerdy developer, who loves hea
 
 <p>Moving to the UK in 2015, I landed at Ladbrokes. Working on WAMP stack in a Scrum team responsible for the development and support of the online betting platforms, I was also taking care of the integrations and support. Next in line was Whitbread, where I worked on the front-end of an AEM with AngularJS stack in one of the Premier Inn website's Scrum teams and co-led a React/Redux migration on top of the rest. A couple of years later in Photobox, I was responsible for overlooking the Front End side of a product support migration from legacy studios to the new creation studio, coaching and mentoring associate engineers, design UI implementation solutions and overlook their implementation, as well as make the necessary changes to improve the React codebases standards and and ensure they meet the most recent established good practices and trends.</p>
 
-<p>Tractable is my house now and being part of the Inspection team, we're building cool web apps, which utilise AI services to produce instant condition reports remotely for vehicle remarketing, purchasing, and fleet.</p>
+<p>Tractable is my house now - since 2021. In this role and as part of Inspection team, my responsibilities include the development and support Pocket AI, a web app which allows AI models to load and run on the user’s device, collecting video and images of a car for damage detection; the rewrite of the Portal, which would manage the inspection evidence of Pocket AI and display a damages report; the extension and maintenance of the AWS services, which would host the collected evidence, provide them to AI Lambdas for analysis and use the results to generate the damages report; and standardisation of code structure for cross-team cohesiveness and use of best practices.</p>
+
+<p>In my current role as a Staff Engineer at Tractable, I have played a pivotal role in the success of the Auto Platform Product (APP). From the outset, I was heavily involved in the architecture and setup, contributing ideas, providing feedback, and initiating critical discussions that shaped key decisions in the product’s creation. I collaborated closely with other staff engineers and architects to define the system architecture and establish standards that address the diverse needs of Auto clients.</p>
+
+<p>I champion unit testing to set robust standards for code quality and maintainability. I advocate for and documented best practices for creating single-pattern React codebases, ensuring scalability and maintainability across the front-end applications. During the first phase of APP development, I led a squad of five engineers to deliver core components and their associated back-end services. I also ensured the successful implementation of localisation, tracking, and alerting features.</p>
 
 <p>If you want to find out more details about each role I've worked on, like tech stacks, project details, responsibilities, etc. please do visit my <a href="https://linkedin.com/in/dimitrisdamilos">LinkedIn profile</a>.</p>
 
 </details>
-
-## Connect with me
-
-<a href="https://jonur.io">
-<img alt="jonur.io | My personal website" width="24px" src="https://img.icons8.com/fluency/48/000000/globe.png" />
-</a>
-<a href="https://linkedin.com/in/dimitrisdamilos">
-<img alt="dimitrisdamilos | LinkedIn" width="24px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
-</a>
-<a href="https://stackoverflow.com/users/979010/dimitris-damilos?tab=profiles">
-<img alt="dimitris-damilos | StackOverflow" width="22px" src="https://img.icons8.com/fluency/48/000000/stackoverflow.png" />
-</a>
-<a href="https://medium.com/@dimitrisdamilos">
-<img alt="dimitrisdamilos | Medium" width="22px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" />
-</a>
 
 ## Little side projects
 
