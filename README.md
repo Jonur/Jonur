@@ -1,6 +1,12 @@
 ## About me
 
-I am Dimitris, a foodie, nerdy, history buff, whisky connoisseur, and metalhead. My sense of humour is weird. People also call me Jonur, it's a long story.
+![metal](https://img.shields.io/badge/music-heavy%20metal-black?logo=musicbrainz)
+![history](https://img.shields.io/badge/interests-history-brown)
+![whisky](https://img.shields.io/badge/drink-whisky-8B4513)
+![foodie](https://img.shields.io/badge/foodie-yes-orange)
+
+I build low-drama, high-quality software. Everything else I like is intense, old, or fermented.
+People call me Jonur — it’s a long story.
 
 ### My professional story
 
@@ -16,22 +22,42 @@ Before all that, I worked across a mix of product companies and consultative env
 
 If you want a more formal breakdown of roles, tech stacks, and projects, my <a href="https://linkedin.com/in/dimitrisdamilos">LinkedIn</a> has the full timeline — this is the human version.
 
-## Little side projects
+## Open source & side projects
 
-### [Art of War legions formation sharing tool](https://aowformationshare.jonur.io/)
+### Featured open-source
 
-This small app allows Art of War: Legions players to share their formations and get formation suggestions without having to edit screenshots and it helps reference the formation squares.
+#### [react-super-switch](https://www.npmjs.com/package/react-super-switch)
+
+[![npm version](https://img.shields.io/npm/v/react-super-switch)](https://www.npmjs.com/package/react-super-switch)
+[![gzip size](https://img.shields.io/bundlephobia/minzip/react-super-switch)](https://bundlephobia.com/package/react-super-switch)
+![dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
+![react](https://img.shields.io/badge/react-17%2B-blue)
+![typescript](https://img.shields.io/badge/typescript-fully%20typed-blue)
+
+A tiny, dependency-free React switch component focused on correctness, accessibility, and predictability.
+
+Built to avoid the usual pitfalls of “simple” switch components (controlled vs uncontrolled confusion, broken keyboard support, unnecessary re-renders), while keeping the API minimal and explicit.
+
+Ships at under 1KB min+gzip and is intended to be dropped into real-world codebases without ceremony.
+
+[NPM](https://www.npmjs.com/package/react-super-switch) - [Code](https://github.com/Jonur/react-super-switch)
+
+### Experiments & small apps
+
+#### [Art of War legions formation sharing tool](https://aowformationshare.jonur.io/)
+
+A small utility for Art of War: Legions players to share and discuss army formations without editing screenshots. The tool normalises formation layouts into a shareable grid, making it easier to reference positions, suggest improvements, and iterate collaboratively.
 
 [Visit](https://aowformationshare.jonur.io/) - [Code](https://github.com/Jonur/aow-formation-share)
 
-### [Costie](https://costie.jonur.io/)
+#### [Costie](https://costie.jonur.io/)
 
-Costie is a meeting cost calculator. It takes the - before-tax preferably - salary amounts of the participants and runs a timer with the meeting's cost per second. The salary fields are safe in password fields and are destroyed the moment the user navigates to the timer, with the application keeping only the sum of all salaries per second. [Read more...](https://github.com/Jonur/costie#flow)
+A lightweight meeting cost calculator built as an experiment in privacy-first UI design. Participants’ salaries are entered locally, immediately discarded, and never stored — only the aggregated cost-per-second survives for the duration of the timer. Created partly as a practical tool, partly as a reminder that meetings are never “free”. [Read more...](https://github.com/Jonur/costie#flow)
 
 [Visit](https://costie.jonur.io/) - [Code](https://github.com/Jonur/costie)
 
-### EU COVID-19 Country Statistics
+#### EU COVID-19 Country Statistics
 
-This is an EU and mobile-UX focused monitoring tool for the coronavirus pandemic. The stats update daily and the app offers a good amount of structured data presentations for each country, the EU as a whole, as well as a comparison between the EU and the rest of the world. [Read more...](https://medium.com/@dimitrisdamilos/eu-covid-19-country-statistics-456efef315e1)
+An EU-focused COVID-19 statistics dashboard built during the pandemic, with an emphasis on mobile UX and structured data comparison. The app aggregates daily updates and presents per-country, EU-wide, and global comparisons in a consistent, explorable format. [Read more...](https://medium.com/@dimitrisdamilos/eu-covid-19-country-statistics-456efef315e1)
 
-Visit - [Code](https://github.com/Jonur/covid19-eu-report)
+[Code](https://github.com/Jonur/covid19-eu-report)
