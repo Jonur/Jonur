@@ -2,21 +2,19 @@
 
 I am Dimitris, a foodie, nerdy, history buff, whisky connoisseur, and metalhead. My sense of humour is weird. People also call me Jonur, it's a long story.
 
-<details>
-<summary>My professional story</summary>
-<p>After completing my studies of IT & CS at the University of West Attica, my career began with small scale IT roles. I served my mandatory military service at the Hellenic Army as a radar operator and finally, self-employed, I worked on small-scale web projects. In 2012, I co-founded cmagnet, where we delivered design solutions, websites and e-shops to small businesses.</p>
+### My professional story
 
-<p>Moving to the UK in 2015, I landed at Ladbrokes. Working on WAMP stack in a Scrum team responsible for the development and support of the online betting platforms, I was also taking care of the integrations and support. Next in line was Whitbread, where I worked on the front-end of an AEM with AngularJS stack in one of the Premier Inn website's Scrum teams and co-led a React/Redux migration on top of the rest. A couple of years later in Photobox, I was responsible for overlooking the Front End side of a product support migration from legacy studios to the new creation studio, coaching and mentoring associate engineers, design UI implementation solutions and overlook their implementation, as well as make the necessary changes to improve the React codebases standards and and ensure they meet the most recent established good practices and trends.</p>
+I’m a Staff Engineer based in London, currently working mainly in the React / TypeScript / Node.js space, with a strong interest in architecture, developer experience, and building things that don’t collapse under their own weight a year later.
 
-<p>Tractable is my house now - since 2021. In this role and as part of Inspection team, my responsibilities include the development and support Pocket AI, a web app which allows AI models to load and run on the user’s device, collecting video and images of a car for damage detection; the rewrite of the Portal, which would manage the inspection evidence of Pocket AI and display a damages report; the extension and maintenance of the AWS services, which would host the collected evidence, provide them to AI Lambdas for analysis and use the results to generate the damages report; and standardisation of code structure for cross-team cohesiveness and use of best practices.</p>
+These days my work sits less in “shipping isolated features” and more in shaping platforms: defining front-end foundations, setting standards, writing ADRs, unblocking teams, and rebuilding systems that have reached the end of their useful life. I tend to get pulled into the messy, cross-team problems — the ones where requirements are fuzzy, ownership is unclear, and the solution needs both technical depth and a lot of communication.
 
-<p>In my current role as a Staff Engineer at Tractable, I have played a pivotal role in the success of the Auto Platform Product (APP). From the outset, I was heavily involved in the architecture and setup, contributing ideas, providing feedback, and initiating critical discussions that shaped key decisions in the product’s creation. I collaborated closely with other staff engineers and architects to define the system architecture and establish standards that address the diverse needs of Auto clients.</p>
+At Tractable, I’ve spent the last few years working across Pocket AI, the Inspection Portal, and the Auto Platform Product (APP). That’s included everything from running AI models client-side with TensorFlow.js, to rebuilding large React applications from scratch, to designing shared libraries used across multiple teams. I’ve also been heavily involved in defining testing strategy, localisation, analytics, and front-end architecture across the organisation.
 
-<p>I champion unit testing to set robust standards for code quality and maintainability. I advocate for and documented best practices for creating single-pattern React codebases, ensuring scalability and maintainability across the front-end applications. During the first phase of APP development, I led a squad of five engineers to deliver core components and their associated back-end services. I also ensured the successful implementation of localisation, tracking, and alerting features.</p>
+I care a lot about code quality, but not in a dogmatic way. I’m opinionated about structure, testing, and long-term maintainability because I’ve seen what happens when those things are ignored. I’m a big believer in boring, predictable systems that let teams move fast without breaking production — and in writing things down so the same mistakes aren’t repeated.
 
-<p>If you want to find out more details about each role I've worked on, like tech stacks, project details, responsibilities, etc. please do visit my <a href="https://linkedin.com/in/dimitrisdamilos">LinkedIn profile</a>.</p>
+Before all that, I worked across a mix of product companies and consultative environments (Ladbrokes, Whitbread, Photobox), and earlier still I co-founded a small web agency in Greece. That mix probably explains why I’m equally comfortable deep in code, in architectural discussions, or translating between product, design, and engineering.
 
-</details>
+If you want a more formal breakdown of roles, tech stacks, and projects, my <a href="https://linkedin.com/in/dimitrisdamilos">LinkedIn</a> has the full timeline — this is the human version.
 
 ## Little side projects
 
