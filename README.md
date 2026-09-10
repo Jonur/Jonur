@@ -82,7 +82,7 @@ An EU-focused COVID-19 statistics dashboard built during the pandemic, with an e
 
 [Code](https://github.com/Jonur/covid19-eu-report)
 
-### Client work
+### Personal websites
 
 #### [Eleana Gkogka](https://eleanagkogka.design)
 
