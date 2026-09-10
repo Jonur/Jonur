@@ -10,11 +10,13 @@ People call me Jonur — it’s a long story.
 
 ### My professional story
 
-I’m a Staff Engineer based in London, currently working mainly in the React / TypeScript / Node.js space, with a strong interest in architecture, developer experience, and building things that don’t collapse under their own weight a year later.
+I’m a Staff Engineer based in London, currently working mainly in the React / TypeScript / Node.js space, with a strong interest in architecture, AI-driven UX, and building things that don’t collapse under their own weight a year later.
 
-These days my work sits less in “shipping isolated features” and more in shaping platforms: defining front-end foundations, setting standards, writing ADRs, unblocking teams, and rebuilding systems that have reached the end of their useful life. I tend to get pulled into the messy, cross-team problems — the ones where requirements are fuzzy, ownership is unclear, and the solution needs both technical depth and a lot of communication.
+These days my work sits less in “shipping isolated features” and more in shaping platforms: defining front-end foundations, setting standards, writing RFCs, unblocking teams, and rebuilding systems that have reached the end of their useful life. I tend to get pulled into the messy, cross-team problems — the ones where requirements are fuzzy, ownership is unclear, and the solution needs both technical depth and a lot of communication.
 
-At Tractable, I’ve spent the last few years working across Pocket AI, the Inspection Portal, and the Auto Platform Product (APP). That’s included everything from running AI models client-side with TensorFlow.js, to rebuilding large React applications from scratch, to designing shared libraries used across multiple teams. I’ve also been heavily involved in defining testing strategy, localisation, analytics, and front-end architecture across the organisation.
+I’m currently a Staff Application Engineer at Bluefish AI, where I own product surfaces end-to-end — from an ambiguous ask through architecture to production. I write the RFCs that are reshaping how the product is configured org-wide, act as first responder on critical incidents, and I’m usually the person Product and Design escalate to when a requirement doesn’t have a clean answer yet.
+
+Before that, I spent four and a half years at Tractable working across Pocket AI, the Inspection Portal, and the Auto Platform Product (APP). That included running AI models client-side with TensorFlow.js, migrating Pocket AI to a multi-tenant static React setup for low-bandwidth global performance, rebuilding large React applications from scratch, and designing shared libraries used across multiple teams. I was also heavily involved in defining testing strategy, localisation, analytics, and front-end architecture across the organisation — and helped unlock a chunk of new revenue along the way by embedding Pocket AI into partner products.
 
 I care a lot about code quality, but not in a dogmatic way. I’m opinionated about structure, testing, and long-term maintainability because I’ve seen what happens when those things are ignored. I’m a big believer in boring, predictable systems that let teams move fast without breaking production — and in writing things down so the same mistakes aren’t repeated.
 
