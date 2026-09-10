@@ -20,7 +20,7 @@ Before that, I spent four and a half years at Tractable working across Pocket AI
 
 I care a lot about code quality, but not in a dogmatic way. I’m opinionated about structure, testing, and long-term maintainability because I’ve seen what happens when those things are ignored. I’m a big believer in boring, predictable systems that let teams move fast without breaking production — and in writing things down so the same mistakes aren’t repeated.
 
-Before all that, I worked across a mix of product companies and consultative environments (Ladbrokes, Whitbread, Photobox), and earlier still I co-founded a small web agency in Greece. That mix probably explains why I’m equally comfortable deep in code, in architectural discussions, or translating between product, design, and engineering.
+Before all that, I worked across a mix of product companies and consultative environments (Ladbrokes, Whitbread, Photobox), and earlier still I co-founded a small web agency in Greece. That mix has been useful — it's given me practice moving between code, architecture discussions, and conversations with product and design.
 
 If you want a more formal breakdown of roles, tech stacks, and projects, my <a href="https://linkedin.com/in/dimitrisdamilos">LinkedIn</a> has the full timeline — this is the human version.
 
