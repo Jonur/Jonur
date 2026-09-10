@@ -46,11 +46,29 @@ Ships at under 1KB min+gzip and is intended to be dropped into real-world codeba
 
 ### Experiments & small apps
 
+#### [Giglog](https://giglog.jonur.io/)
+
+A personal log of gigs attended and gigs still to come — stats, history, venues, and cities tracked across the years.
+
+[Visit](https://giglog.jonur.io/)
+
+#### [Greek National Team Games](https://gnt.jonur.io/)
+
+A quick reference for upcoming Greek national team games across basketball, football, and water polo, for both men's and women's teams.
+
+[Visit](https://gnt.jonur.io/)
+
 #### [Art of War legions formation sharing tool](https://aowformationshare.jonur.io/)
 
 A small utility for Art of War: Legions players to share and discuss army formations without editing screenshots. The tool normalises formation layouts into a shareable grid, making it easier to reference positions, suggest improvements, and iterate collaboratively.
 
 [Visit](https://aowformationshare.jonur.io/) - [Code](https://github.com/Jonur/aow-formation-share)
+
+#### [AoW hero ranking](https://aowranking.jonur.io/)
+
+A companion tool for Art of War: Legions players to rank and compare heroes when planning a roster.
+
+[Visit](https://aowranking.jonur.io/) - [Code](https://github.com/Jonur/aow-ranking)
 
 #### [Costie](https://costie.jonur.io/)
 
@@ -63,3 +81,17 @@ A lightweight meeting cost calculator built as an experiment in privacy-first UI
 An EU-focused COVID-19 statistics dashboard built during the pandemic, with an emphasis on mobile UX and structured data comparison. The app aggregates daily updates and presents per-country, EU-wide, and global comparisons in a consistent, explorable format. [Read more...](https://medium.com/@dimitrisdamilos/eu-covid-19-country-statistics-456efef315e1)
 
 [Code](https://github.com/Jonur/covid19-eu-report)
+
+### Client work
+
+#### [Eleana Gkogka](https://eleanagkogka.design)
+
+Portfolio website for designer Eleana Gkogka.
+
+[Visit](https://eleanagkogka.design)
+
+#### [Maria Athanasseli](https://www.maria-athanaseli.com/)
+
+Personal website for personal trainer Maria Athanasseli.
+
+[Visit](https://www.maria-athanaseli.com/)
