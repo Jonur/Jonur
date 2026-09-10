@@ -46,31 +46,31 @@ Ships at under 1KB min+gzip and is intended to be dropped into real-world codeba
 
 ### Experiments & small apps
 
-#### [Giglog](https://giglog.jonur.io/)
+#### Giglog
 
 A personal log of gigs attended and gigs still to come — stats, history, venues, and cities tracked across the years.
 
 [Visit](https://giglog.jonur.io/)
 
-#### [Greek National Team Games](https://gnt.jonur.io/)
+#### Greek National Team Games
 
 A quick reference for upcoming Greek national team games across basketball, football, and water polo, for both men's and women's teams.
 
 [Visit](https://gnt.jonur.io/)
 
-#### [Art of War legions formation sharing tool](https://aowformationshare.jonur.io/)
+#### Art of War legions formation sharing tool
 
 A small utility for Art of War: Legions players to share and discuss army formations without editing screenshots. The tool normalises formation layouts into a shareable grid, making it easier to reference positions, suggest improvements, and iterate collaboratively.
 
 [Visit](https://aowformationshare.jonur.io/) - [Code](https://github.com/Jonur/aow-formation-share)
 
-#### [AoW hero ranking](https://aowranking.jonur.io/)
+#### AoW hero ranking
 
 A companion tool for Art of War: Legions players to rank and compare heroes when planning a roster.
 
 [Visit](https://aowranking.jonur.io/) - [Code](https://github.com/Jonur/aow-ranking)
 
-#### [Costie](https://costie.jonur.io/)
+#### Costie
 
 A lightweight meeting cost calculator built as an experiment in privacy-first UI design. Participants’ salaries are entered locally, immediately discarded, and never stored — only the aggregated cost-per-second survives for the duration of the timer. Created partly as a practical tool, partly as a reminder that meetings are never “free”. [Read more...](https://github.com/Jonur/costie#flow)
 
