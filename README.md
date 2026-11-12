@@ -36,9 +36,23 @@ If you want a more formal breakdown of roles, tech stacks, and projects, my <a h
 ![react](https://img.shields.io/badge/react-17%2B-blue)
 ![typescript](https://img.shields.io/badge/typescript-fully%20typed-blue)
 
-A tiny, dependency-free React switch component focused on correctness, accessibility, and predictability.
+Deterministic conditional rendering for React: from a set of mutually exclusive options, exactly one view renders.
 
-Built to avoid the usual pitfalls of “simple” switch components (controlled vs uncontrolled confusion, broken keyboard support, unnecessary re-renders), while keeping the API minimal and explicit.
+Conditional rendering usually starts as a few `{condition && <View />}` lines and slowly turns fragile: two views render at once, priority is implied by order, and negated conditions get unreadable. `react-super-switch` makes the options explicit instead, with an optional priority and a default fallback, and fails loudly in development when the setup is wrong.
+
+```tsx
+<SuperSwitch>
+  <Option condition={isLoading}>
+    <Spinner />
+  </Option>
+  <Option condition={hasError}>
+    <ErrorState />
+  </Option>
+  <Option default>
+    <Results />
+  </Option>
+</SuperSwitch>
+```
 
 Ships at under 1KB min+gzip and is intended to be dropped into real-world codebases without ceremony.
 
