@@ -26,7 +26,7 @@ If you want a more formal breakdown of roles, tech stacks, and projects, my <a h
 
 ## Open source & side projects
 
-### Featured open-source
+### Open source
 
 #### [react-super-switch](https://www.npmjs.com/package/react-super-switch)
 
@@ -42,56 +42,85 @@ Built to avoid the usual pitfalls of “simple” switch components (controlled 
 
 Ships at under 1KB min+gzip and is intended to be dropped into real-world codebases without ceremony.
 
-[NPM](https://www.npmjs.com/package/react-super-switch) - [Code](https://github.com/Jonur/react-super-switch)
+[npm](https://www.npmjs.com/package/react-super-switch) · [Code](https://github.com/Jonur/react-super-switch)
 
-### Experiments & small apps
+### Small apps
 
-#### Giglog
+Small apps I build to solve very specific problems of my own. Each one does a single job, runs on my own time and budget, and stays around for as long as it’s useful. They all live at **[apps.jonur.io](https://apps.jonur.io)**.
 
-A personal log of gigs attended and gigs still to come — stats, history, venues, and cities tracked across the years.
+#### Apps
 
-[Visit](https://giglog.jonur.io/)
+In daily use. Each one exists because something annoyed me enough.
 
-#### Greek National Team Games
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://metalradar.jonur.io"><img src="https://apps.jonur.io/thumbs/metalradar.jpg" alt="Metal Radar" width="400"></a><br>
+      <a href="https://metalradar.jonur.io"><b>Metal Radar</b></a><br>
+      <sub>metalradar.jonur.io</sub><br>
+      A quiet daily digest of tours, festivals, albums and lineup news for the bands I follow.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://giglog.jonur.io"><img src="https://apps.jonur.io/thumbs/giglog.jpg" alt="Giglog" width="400"></a><br>
+      <a href="https://giglog.jonur.io"><b>Giglog</b></a><br>
+      <sub>giglog.jonur.io</sub><br>
+      Every gig I’ve been to and the ones still to come. Now part of Metal Radar, where the gig history carries on.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://gnt.jonur.io"><img src="https://apps.jonur.io/thumbs/gnt.jpg" alt="Greek National Teams" width="400"></a><br>
+      <a href="https://gnt.jonur.io"><b>Greek National Teams</b></a><br>
+      <sub>gnt.jonur.io</sub><br>
+      Upcoming Greek national team games in basketball, football and water polo.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://costie.jonur.io"><img src="https://apps.jonur.io/thumbs/costie.jpg" alt="Costie" width="400"></a><br>
+      <a href="https://costie.jonur.io"><b>Costie</b></a><br>
+      <sub>costie.jonur.io</sub><br>
+      A real-time meeting cost calculator. Client-side only, nothing leaves your browser.
+    </td>
+  </tr>
+</table>
 
-A quick reference for upcoming Greek national team games across basketball, football, and water polo, for both men's and women's teams.
+#### Websites
 
-[Visit](https://gnt.jonur.io/)
+Sites I built for people I know.
 
-#### Art of War legions formation sharing tool
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.eleanagkogka.design/"><img src="https://apps.jonur.io/thumbs/eleanagkogka.jpg" alt="Eleana Gkogka" width="400"></a><br>
+      <a href="https://www.eleanagkogka.design/"><b>Eleana Gkogka</b></a><br>
+      <sub>eleanagkogka.design</sub><br>
+      Portfolio of product designer Eleana Gkogka.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.maria-athanaseli.com/"><img src="https://apps.jonur.io/thumbs/maria-athanaseli.jpg" alt="Maria Athanaseli" width="400"></a><br>
+      <a href="https://www.maria-athanaseli.com/"><b>Maria Athanaseli</b></a><br>
+      <sub>maria-athanaseli.com</sub><br>
+      Personal trainer, Pilates instructor and exercise nutritionist.
+    </td>
+  </tr>
+</table>
 
-A small utility for Art of War: Legions players to share and discuss army formations without editing screenshots. The tool normalises formation layouts into a shareable grid, making it easier to reference positions, suggest improvements, and iterate collaboratively.
+#### Legacy
 
-[Visit](https://aowformationshare.jonur.io/) - [Code](https://github.com/Jonur/aow-formation-share)
+Still online, no longer needed. Kept around because the work is worth showing.
 
-#### AoW hero ranking
-
-A companion tool for Art of War: Legions players to rank and compare heroes when planning a roster.
-
-[Visit](https://aowranking.jonur.io/) - [Code](https://github.com/Jonur/aow-ranking)
-
-#### Costie
-
-A lightweight meeting cost calculator built as an experiment in privacy-first UI design. Participants’ salaries are entered locally, immediately discarded, and never stored — only the aggregated cost-per-second survives for the duration of the timer. Created partly as a practical tool, partly as a reminder that meetings are never “free”. [Read more...](https://github.com/Jonur/costie#flow)
-
-[Visit](https://costie.jonur.io/) - [Code](https://github.com/Jonur/costie)
-
-#### EU COVID-19 Country Statistics
-
-An EU-focused COVID-19 statistics dashboard built during the pandemic, with an emphasis on mobile UX and structured data comparison. The app aggregates daily updates and presents per-country, EU-wide, and global comparisons in a consistent, explorable format. [Read more...](https://medium.com/@dimitrisdamilos/eu-covid-19-country-statistics-456efef315e1)
-
-[Code](https://github.com/Jonur/covid19-eu-report)
-
-### Personal websites
-
-#### [Eleana Gkogka](https://eleanagkogka.design)
-
-Portfolio website for designer Eleana Gkogka.
-
-[Visit](https://eleanagkogka.design)
-
-#### [Maria Athanasseli](https://www.maria-athanaseli.com/)
-
-Personal website for personal trainer Maria Athanasseli.
-
-[Visit](https://www.maria-athanaseli.com/)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://aowformationshare.jonur.io"><img src="https://apps.jonur.io/thumbs/aowformationshare.jpg" alt="AoW Formation Share" width="400"></a><br>
+      <a href="https://aowformationshare.jonur.io"><b>AoW Formation Share</b></a><br>
+      <sub>aowformationshare.jonur.io</sub><br>
+      Formation sharing helper for Art of War: Legions.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://aowranking.jonur.io"><img src="https://apps.jonur.io/thumbs/aowranking.jpg" alt="AoW Ranking" width="400"></a><br>
+      <a href="https://aowranking.jonur.io"><b>AoW Ranking</b></a><br>
+      <sub>aowranking.jonur.io</sub><br>
+      Hero and troop tier lists for Art of War: Legions.
+    </td>
+  </tr>
+</table>
